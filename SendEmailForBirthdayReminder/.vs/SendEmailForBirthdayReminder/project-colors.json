@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25c07cee-0373-41a9-96d6-0eb29f07f261": {
+      "ProjectGuid": "25c07cee-0373-41a9-96d6-0eb29f07f261",
+      "DisplayName": "SendEmailForBirthdayReminder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

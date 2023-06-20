@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Installing service WindowsService.NET...
+Service WindowsService.NET has been successfully installed.
+Creating EventLog source WindowsService.NET in log Application...
+Committing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe

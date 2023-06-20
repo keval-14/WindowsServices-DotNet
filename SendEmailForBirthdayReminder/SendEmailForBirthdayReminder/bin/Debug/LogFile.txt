@@ -1,0 +1,3 @@
+6/20/2023 5:41:31 PM : Service is started
+6/20/2023 5:42:07 PM : Web Api called : Api Data [{"employeeId":1,"firstName":"Keval","lastName":"Patel","gender":"M","dateofBirth":"2001-07-20T00:00:00","departmentId":2,"salary":45000.00,"address":"keval@mailinator.com","cityId":2,"pinCode":"394326","isActive":true,"isMailSent":null,"mailSentDate":null,"city":null,"department":null},{"employeeId":4,"firstName":"Ritu","lastName":"Gondaliya","gender":"F","dateofBirth":"2002-07-20T00:00:00","departmentId":1,"salary":40000.00,"address":"ritu@mailinator.com","cityId":5,"pinCode":"235689","isActive":true,"isMailSent":null,"mailSentDate":null,"city":null,"department":null}] 
+6/20/2023 6:36:39 PM : Service is stopped
