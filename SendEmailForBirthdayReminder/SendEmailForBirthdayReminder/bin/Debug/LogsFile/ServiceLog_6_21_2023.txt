@@ -1,0 +1,16 @@
+Service started at 6/21/2023 10:58:08 AM
+Service recalled at 6/21/2023 10:59:08 AM
+Web Api called : 1 emails sent..! 
+Service recalled at 6/21/2023 11:00:08 AM
+Web Api called : 0 emails sent..! 
+Service recalled at 6/21/2023 11:01:08 AM
+Web Api called : 0 emails sent..! 
+Service stopped at 6/21/2023 11:01:39 AM
+Service started at 6/21/2023 11:56:22 AM
+Service recalled at 6/21/2023 11:57:22 AM
+Web Api called : 0 emails sent..! 
+Service recalled at 6/21/2023 11:58:22 AM
+Web Api called : 0 emails sent..! 
+Service recalled at 6/21/2023 11:59:22 AM
+Web Api called : 0 emails sent..! 
+Service stopped at 6/21/2023 11:59:36 AM

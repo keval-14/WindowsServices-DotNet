@@ -11,3 +11,79 @@ Affected parameters are:
    logtoconsole = 
    logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
    assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Uninstalling assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Removing EventLog source WindowsService.NET.
+Service WindowsService.NET is being removed from the system...
+Service WindowsService.NET was successfully removed from the system.
+Installing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Installing service WindowsService.NET...
+Service WindowsService.NET has been successfully installed.
+Creating EventLog source WindowsService.NET in log Application...
+Committing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Installing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+   logtoconsole = 
+Installing service WindowsService.NET...
+Creating EventLog source WindowsService.NET in log Application...
+Rolling back assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+   logtoconsole = 
+Restoring event log to previous state for source WindowsService.NET.
+Uninstalling assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Removing EventLog source WindowsService.NET.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Removing EventLog source WindowsService.NET.
+Service WindowsService.NET is being removed from the system...
+Service WindowsService.NET was successfully removed from the system.
+Installing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+   logtoconsole = 
+Installing service WindowsService.NET...
+Service WindowsService.NET has been successfully installed.
+Creating EventLog source WindowsService.NET in log Application...
+Committing assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.InstallLog
+   assemblypath = D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\SendEmailForBirthdayReminder.exe
+Removing EventLog source WindowsService.NET.
+Service WindowsService.NET is being removed from the system...
+Service WindowsService.NET was successfully removed from the system.

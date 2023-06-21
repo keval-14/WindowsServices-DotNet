@@ -20,6 +20,9 @@ namespace SendEmailForBirthdayReminder
                 new Service1()
             };
             ServiceBase.Run(ServicesToRun);
+
+            //For Debugg only
+            //new Service1().callAPI();
         }
     }
 }

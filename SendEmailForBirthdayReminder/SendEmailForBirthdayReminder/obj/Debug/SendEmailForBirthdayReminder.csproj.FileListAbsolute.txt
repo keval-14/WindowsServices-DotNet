@@ -7,3 +7,13 @@ D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEm
 D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\obj\Debug\SendEmailForBirthdayReminder.csproj.CoreCompileInputs.cache
 D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\obj\Debug\SendEmailForBirthdayReminder.exe
 D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\obj\Debug\SendEmailForBirthdayReminder.pdb
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\obj\Debug\SendEmailForBirthdayReminder.csproj.AssemblyReference.cache
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Security.AccessControl.dll
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Security.Permissions.dll
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Security.Principal.Windows.dll
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Security.AccessControl.xml
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Security.Permissions.xml
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\bin\Debug\System.Security.Principal.Windows.xml
+D:\tatvasoft\training\WindowsServices-DotNet\SendEmailForBirthdayReminder\SendEmailForBirthdayReminder\obj\Debug\SendEmailForBirthdayReminder.csproj.CopyComplete
