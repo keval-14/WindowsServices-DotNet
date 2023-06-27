@@ -5,6 +5,11 @@
       "ProjectGuid": "25c07cee-0373-41a9-96d6-0eb29f07f261",
       "DisplayName": "SendEmailForBirthdayReminder",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
