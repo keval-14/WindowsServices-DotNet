@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Lxj5xi4Peqv4PHB2TcXObK+l1sbl+veqSInza/0IX1avgKR66xaJDqcnetKqPPnu94njDDQEamzlgZmtSueBA==",
+  "dgSpecHash": "7DdoIzpkTPhXItCz0YYYpN0icN2kDx8uj3aSxooY3HjXWUT2owHloyGU7Ko4MZ7F9p0KbTZJ+0q4aluGOj2tOg==",
   "success": true,
-  "projectFilePath": "D:\\tatvasoft\\training\\WindowsServices\\WindowsServices\\WindowsServices\\WindowsServices.csproj",
+  "projectFilePath": "D:\\tatvasoft\\training\\WindowsServices-DotNet\\WindowsServices\\WindowsServices\\WindowsServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pci53\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

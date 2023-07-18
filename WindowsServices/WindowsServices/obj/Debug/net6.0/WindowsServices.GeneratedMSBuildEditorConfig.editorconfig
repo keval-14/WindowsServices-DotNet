@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WindowsServices
-build_property.ProjectDir = D:\tatvasoft\training\WindowsServices\WindowsServices\WindowsServices\
+build_property.ProjectDir = D:\tatvasoft\training\WindowsServices-DotNet\WindowsServices\WindowsServices\

@@ -1540,11 +1540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tatvasoft\\training\\WindowsServices\\WindowsServices\\WindowsServices\\WindowsServices.csproj",
+      "projectUniqueName": "D:\\tatvasoft\\training\\WindowsServices-DotNet\\WindowsServices\\WindowsServices\\WindowsServices.csproj",
       "projectName": "WindowsServices",
-      "projectPath": "D:\\tatvasoft\\training\\WindowsServices\\WindowsServices\\WindowsServices\\WindowsServices.csproj",
+      "projectPath": "D:\\tatvasoft\\training\\WindowsServices-DotNet\\WindowsServices\\WindowsServices\\WindowsServices.csproj",
       "packagesPath": "C:\\Users\\pci53\\.nuget\\packages\\",
-      "outputPath": "D:\\tatvasoft\\training\\WindowsServices\\WindowsServices\\WindowsServices\\obj\\",
+      "outputPath": "D:\\tatvasoft\\training\\WindowsServices-DotNet\\WindowsServices\\WindowsServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

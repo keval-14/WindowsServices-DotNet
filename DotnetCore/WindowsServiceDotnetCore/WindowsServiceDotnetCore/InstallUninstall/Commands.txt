@@ -1,0 +1,30 @@
+--Configuration
+ConsoleApp(dotnet core)
+
+
+--Install
+SC CREATE "DotNetCoreService" binpath="D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\net6.0\WindowsServiceDemo.exe"
+
+--add a description to service
+sc description DotNetCoreService "hello description"
+
+--Uninstall
+SC DELETE "DotNetCoreService" binpath="D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\net6.0\WindowsServiceDemo.exe"
+
+
+--Install
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+InstallUtil.exe "D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\net6.0\WindowsServiceDemo.exe"
+
+--Uninstall
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+InstallUtil.exe -u "D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\bin\Debug\net6.0\WindowsServiceDemo.exe"
+
+
+Error:
+Exception occurred while initializing the installation:
+System.BadImageFormatException: Could not load file or assembly 'file:///D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore\WindowsServiceDotnetCore\bin\Debug\net6.0\WindowsServiceDotnetCore.exe' or one of its dependencies. The module was expected to contain an assembly manifest..
+
+
+R&D:
+After investigating posts and user reports, we find the error 1053 is often related to the timeout settings. In addition, this error can be triggered by many other factors such as corrupt system files, missing DLL files, outdated Windows build, missing frameworks, insufficient permission, corrupt installation, etc.
