@@ -33,3 +33,4 @@ D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\Windo
 D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\net6.0\ref\WindowsServiceDemo.dll
 D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\net6.0\WindowsServiceDemo.pdb
 D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\net6.0\WindowsServiceDemo.genruntimeconfig.cache
+D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDemo\WindowsServiceDemo\obj\Debug\net6.0\WindowsServiceDemo.csproj.AssemblyReference.cache

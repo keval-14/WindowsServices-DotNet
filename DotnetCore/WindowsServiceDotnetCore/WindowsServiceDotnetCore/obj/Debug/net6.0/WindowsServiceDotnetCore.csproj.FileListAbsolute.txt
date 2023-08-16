@@ -62,4 +62,4 @@ D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore
 D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore\WindowsServiceDotnetCore\obj\Debug\net6.0\WindowsServiceDotnetCore.pdb
 D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore\WindowsServiceDotnetCore\obj\Debug\net6.0\WindowsServiceDotnetCore.genruntimeconfig.cache
 D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore\WindowsServiceDotnetCore\obj\Debug\net6.0\WindowsServiceDotnetCore.csproj.AssemblyReference.cache
-D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore\WindowsServiceDotnetCore\obj\Debug\net6.0\refint\WindowsServiceDotnetCore.dll
+D:\tatvasoft\training\WindowsServices-DotNet\DotnetCore\WindowsServiceDotnetCore\WindowsServiceDotnetCore\bin\Debug\net6.0\ref\WindowsServiceDotnetCore.dll
